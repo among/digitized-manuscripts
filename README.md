@@ -1,7 +1,7 @@
 # What is _Among Digitized Manuscripts_ ?
 This is the repository for the book by L.W. Cornelis van Lit, to be published by Brill in 2019 under the title _Among Digitized Manuscripts: Philology, Codicology, Palaeography in a Digital World_. See also [here](https://digitalorientalist.github.io/Among-Digitized-Manuscripts/)
 
-_Want to be notified of its release? Sign up here: bit.ly/31ihBaz _
+_Want to be notified of its release? Sign up [here](bit.ly/31ihBaz)_
 
 ## Contents
 This handbook provides a conceptual and practical toolbox for anybody working with digital photos of texts rather than the artifact itself (or the plain text contents of it). The core question it answers is, now that we have digitized such a dizzying amount of manuscripts, what to do with it? In short, the chapters discuss the following topics:
