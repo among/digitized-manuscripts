@@ -1,13 +1,29 @@
 # What is _Among Digitized Manuscripts_ ?
-This is the repository for the book by L.W. Cornelis van Lit, to be published by Brill in 2019 under the title _Among Digitized Manuscripts: Philology, Codicology, Palaeography in a Digital World_. See also [here](https://digitalorientalist.github.io/Among-Digitized-Manuscripts/)
+This is the repository for the book  _Among Digitized Manuscripts: Philology, Codicology, Paleography in a Digital World_ by L.W. Cornelis van Lit, to be published by Brill, 2020. For more info look [here](https://digitalorientalist.github.io/Among-Digitized-Manuscripts/), for the book itself look [here](https://brill.com/view/title/56196?lang=en), stay in contact with the author on Twitter [here](https://www.twitter.com/LWCvL) or surf to his [personal website](https://www.lwcvl.com)
 
-_Want to be notified of its release? Sign up [here](bit.ly/31ihBaz)_
+_Want to be notified of the book's release? Sign up [here](bit.ly/31ihBaz)_
 
-### The folders above...
-In this GitHub repository you will find all kinds of files, links, references, and so forth related to the book. The repository in the strict sense was compiled at publication and is archived at Zenodo and should be referenced in publications: 
-In this GitHub repo things have evolved and expanded over time, giving more space to additional resources that did not make it into the book but are noteworthy nonetheless.
+### The folders of this repository...
+In this GitHub repository you will find all kinds of files, links, references, and so forth related to the book. 
+Folders starting with ```Ch``` relate to the different chapters of the book.
+- [Resources for Chapter 4, Paleography](https://github.com/among/digitized-manuscripts/tree/master/Ch4.Vector.Drawing)
+- [Resources for Chapter 5, Philology](https://github.com/among/digitized-manuscripts/tree/master/Ch5.Conversion.and.TEI.and.IIIF)
+- [Resources for Chapter 6, Cataloging](https://github.com/among/digitized-manuscripts/tree/master/Ch6.Rudolf.Geyer.Catalog)
+- [Resources for Chapter 7, Codicology](https://github.com/among/digitized-manuscripts/tree/master/Ch7.Codex.Analyzer)
+- [Resources for Chapter 9, Postscript](https://github.com/among/digitized-manuscripts/tree/master/Ch9.Stories)
 
-## Contents
+
+The folder ```Links and DOIs``` contains links to the resources mentioned in the chapters, as well as all the references used in the book that have a DOI. 
+
+- For an interactive version of the links, [**click here**](https://among.github.io/digitized-manuscripts/Links%20and%20DOIs/WebLinks_Index.html)
+- For an interactive version of the references and their digital object identifiers, [**click here**](https://among.github.io/digitized-manuscripts/Links%20and%20DOIs/DOIs_Index.html)
+
+Folders in addition to this contain information that is part of the *Live Appendix* of the book but are not part of the repository in the strict sense, which was compiled at time of publication and is archived at Zenodo and should be referenced in publications: 
+With a *Live Appendix* I mean that in this GitHub repo things have evolved and expanded over time, giving more space to additional resources that did not make it into the book but are noteworthy nonetheless.
+
+---
+
+## The book at a glance
 This handbook provides a conceptual and practical toolbox for anybody working with digital photos of texts rather than the artifact itself (or the plain text contents of it). The core question it answers is, now that we have digitized such a dizzying amount of manuscripts, what to do with it? In short, the chapters discuss the following topics:
 1.	The difference between a text existing in a material manuscript, a printed publication, or a digital document.
 2.	What happens when we have a hybrid form: a material manuscript represented as a digital document? And, in particular, how can we describe and evaluate the digital aspects of a digitized manuscript?
@@ -33,6 +49,3 @@ This handbook provides a conceptual and practical toolbox for anybody working wi
 - Encourages you to keep learning, especially using the extensive literature already available on coding
 
 ## For more of my work in the Digital Humanities, look [here](https://github.com/lwcvl/cv/blob/master/My%20Work%20in%20Digital%20Humanities.md)
-
-### ```Among```
-There is also ```Among```; an overarching project to apply computer technology to the study of manuscripts, of which the above-mentioned book is just one part. ```Among``` is a collaboration, a place to come together and discuss, perhaps even a movement.
