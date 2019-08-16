@@ -15,6 +15,10 @@ This handbook provides a conceptual and practical toolbox for anybody working wi
 8.	In the conclusion I once more make a case for the self-sufficient humanities scholar who can use technology to their own liking and I further argue that what is now perceived as a division between ‘digital humanities’ and ‘classical humanities’ would ideally cease to be as digital methods become part and parcel of our daily workflow.
 - There is also a *Postscript* in which I share some of my own experience working with digitized manuscripts, including an explanation of the title of the book.
 
+### The folders above...
+In this GitHub repository you will find all kinds of files, links, references, and so forth related to the book. The repository in the strict sense was compiled at publication and is archived at Zenodo and should be referenced in publications: 
+In this GitHub repo things have evolved and expanded over time, giving more space to additional resources that did not make it into the book but are noteworthy nonetheless.
+
 ### Good to know...
 **What this book is not:**
 - Is not a mere catalog of the state of the art of all aspects of manuscript studies
