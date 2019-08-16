@@ -1,4 +1,0 @@
-Ch9 - numbers refer to page or footnote numbers of the book ‘Among Digitized Manuscripts’. For the latest information or questions, go to github.com/Among or contact the author L.W. Cornelis van Lit
-
-308
-https://www.gnu.org/software/wget/
