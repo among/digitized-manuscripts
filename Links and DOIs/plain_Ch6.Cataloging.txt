@@ -1,0 +1,80 @@
+Ch 6 - numbers refer to page or footnote numbers of the book ‘Among Digitized Manuscripts’. For the latest information or questions, go to github.com/Among or contact the author L.W. Cornelis van Lit
+
+fn. 2
+http://kups.ub.uni-koeln.de/4337
+https://researchblogs.cul.columbia.edu/islamicbooks/2012/08/14/digitalsurrogates/; 
+
+175
+http://www.stmatthias.uni-trier.de/index.php
+
+176
+http://www.stift-st-florian.at/en/monastery-st-florian/monastery-library.html
+
+fn. 4
+https://www.tropy.org
+
+181
+https://www.zotero.org
+
+185
+https://github.com/LWCvL/RudolfGeyerCatalog 
+The final catalog is available at: 
+https://lwcvl.github.io/RudolfGeyerCatalog/
+
+https://datatables.net
+https://omeka.org
+
+198
+https://getbootstrap.com
+https://materializecss.com
+
+203
+This took me a while to figure out. I searched on Stack Overflow for an answer and eventually, this post explained it well enough for me: 
+https://stackoverflow.com/questions/11922383/access-process-nested-objects-arrays-or-json
+
+205
+https://micromodal.now.sh
+
+See https://www.w3schools.com/howto/howto_js_filter_table.asp
+
+207
+I based my function on this example code: https://github.com/aristus/accent-folding
+
+220
+See https://popper.js.org
+https://atomiks.github.io/tippyjs/
+
+220
+https://code.visualstudio.com
+
+221
+see https://docs.emmet.io/cheat-sheet/
+
+https://www.npmjs.com
+
+222
+For my own repository see 
+https://github.com/LWCvL
+GitHub is based on the software called Git, see 
+https://git-scm.com
+
+fn. 11
+https://www.chronicle.com/article/Scholars-Criticize/235102
+https://www.forbes.com/sites/drsarahbond/2017/01/23/dear-scholars-delete-your-account-at-academia-edu/#7dcf837c2d62
+
+223
+Some of the results are available at:
+https://lwcvl.github.io/RudolfGeyerCatalog/data.html
+
+224
+See https://www.npmjs.com/package/graph-js 
+https://github.com/chartjs
+https://github.com/chartjs/chartjs-plugin-annotation
+
+http://hdlab.stanford.edu/palladio/
+See https://www.amcharts.com
+https://github.com/amcharts
+
+225
+https://www.latlong.net
+

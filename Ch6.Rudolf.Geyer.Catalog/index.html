@@ -1,0 +1,142 @@
+<!-- Copyright L.W. Cornelis van Lit, "The Digital Orientalist" Please see https://github.com/LWCvL/RudolfGeyerCatalog for details. -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Dependent on MicroModal, Bootstrap, Popper and TippyTip -->
+    <script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/popper.js@1"></script>
+    <script src="https://unpkg.com/tippy.js@4"></script>
+
+    <!-- Loading interface texts and catalog texts -->
+    <script src="textsGeyerCatalog.json.js"></script>
+    <script src="textsInterface.json.js"></script>
+
+    <!-- Loading styling rules overriding standard Bootstrap -->
+    <link rel="stylesheet" href="extrastyle.css">
+
+    <title>Catalogue of Rudolf Geyer</title>
+</head>
+
+<body>
+    <!-- Header with link to St. Florian, a title, link to switch language, and link to Digital Orientalist -->
+    <header>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-2 headerdiv left">
+                    <a href="http://www.stift-st-florian.at/en/home.html" class="btn" id="stiftFlorianTip" title="">
+                        <img src="iconStFlorian.svg" height="30" alt="Stift Florian">
+                    </a>
+                </div>
+                <div class="col headerdiv middle">
+                    <h1 class="header" id="headline"></h1>
+                </div>
+                <div class="col-2 headerdiv right">
+                    <div class="flags btn" id="flagTip">
+                        <img src="iconflaggerman.svg" class="flags" height="16" width="32">
+                    </div>
+                    <div class="flags btn DO">
+                        <img src="iconDigOr.svg" class="flags" height="16" id="digitalOrientalistTip" onclick="window.open('http://www.digitalorientalist.com/')"
+                            onmouseover="this.src='iconDigOrOrange.svg'" onmouseout="this.src='iconDigOr.svg'" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Space for welcome text -->
+    <p></p>
+    <div class="container">
+        <div class="row">
+            <div class="col-9">
+                <h2 class="headline" id="welcomeHeader"></h2>
+                <p id="welcomeBody">
+                    Loading...
+                </p>
+            </div>
+            <div class="col-3 geyerImage">
+            </div>
+        </div>
+
+        <!-- Search bar -->
+        <p class="font-weight-bold">
+            <div class="input-group">
+                <input type="text" id="searchTip" class="form-control" title="" placeholder="">
+                <span class="input-group-btn">
+                    <button class="btn btn-blue" type="button" id="searchButton"></button>
+                </span>
+            </div>
+        </p>
+    </div>
+
+    <!-- Dividing line interface/catalog -->
+    <hr>
+
+    <!-- Title and buttons for ordering catalog -->
+    <div class="container">
+        <div class="row">
+            <div class="col-9" id="titleCat">
+                <h2 class="headline" id="titleSearch">
+                </h2>
+            </div>
+            <div class="col-3" id="buttonsCat">
+                <span id="sortBy"></span>
+                <div class="btn-group btn-group-toggle" id="ordering" data-toggle="buttons">
+                    <label class="btn btn-outline-secondary">
+                        <input type="radio" name="options" id="sortTitle" autocomplete="off">
+                        <span id="sortTitleCaption"></span>
+                    </label>
+                    <label class="btn btn-outline-secondary">
+                        <input type="radio" name="options" id="sortAuthor" autocomplete="off">
+                        <span id="sortAuthorCaption"></span>
+                    </label>
+                    <label class="btn btn-outline-secondary">
+                        <input type="radio" name="options" id="sortYear" autocomplete="off">
+                        <span id="sortYearCaption"></span>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Actual catalog -->
+    <div class='container' id="catalogGeyer"></div>
+
+    <!-- Optional pop-up for extra details of an entry -->
+    <div id="popupInfo"></div>
+
+    <!-- Footer with link to Stift Florian and link to Digital Orientalist -->
+    <footer>
+        <div class="container-fluid">
+            <div class="row">
+                <p></p>
+            </div>
+            <div class="row">
+                <div class="col-2 footer left">
+                    <a href="http://www.stift-st-florian.at/en/home.html" class="btn" title="">
+                        <img src="iconStFlorian.svg" height="30" alt="Stift Florian" srcset="">
+                    </a>
+                </div>
+                <div class="col footer middle">
+                </div>
+                <div class="col-2 footer right">
+                    <a href="http://www.digitalorientalist.com/" class="btn" title="">
+                        <img src="iconDigOr.svg" height="20" alt="The Digital Orientalist" srcset="" onmouseover="this.src='iconDigOrOrange.svg'" onmouseout="this.src='iconDigOr.svg'">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Loading of functionality -->
+    <script src="functions.js"></script>
+
+</body>
+
+</html>
