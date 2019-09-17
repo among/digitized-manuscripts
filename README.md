@@ -50,4 +50,4 @@ This handbook provides a conceptual and practical toolbox for anybody working wi
 - Argues that the aura of digitized manuscripts is not less or more than the aura of the material artifact, just different
 - Encourages you to keep learning, especially using the extensive literature already available on coding
 
-## For more of my work in the Digital Humanities, look [here](https://github.com/lwcvl/cv/blob/master/My%20Work%20in%20Digital%20Humanities.md)
+## For more of my work in the Digital Humanities, look [here](http://lwcvl.com/#menuDH)
