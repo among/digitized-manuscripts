@@ -1,9 +1,9 @@
 # What is _Among Digitized Manuscripts_ ?
-This is the repository for the book  _Among Digitized Manuscripts: Philology, Codicology, Paleography in a Digital World_ by L.W. Cornelis van Lit, to be published by Brill, 2020. For more info look [here](https://digitalorientalist.github.io/Among-Digitized-Manuscripts/), for the book itself look [here](https://brill.com/view/title/56196?lang=en), stay in contact with the author on Twitter [here](https://www.twitter.com/LWCvL) or surf to his [personal website](http://www.lwcvl.com)
+This is the repository for the book  _Among Digitized Manuscripts: Philology, Codicology, Paleography in a Digital World_ by L.W. Cornelis van Lit, (Leiden: Brill, 2020). For more info look [here](http://lwcvl.com/Among), for the book itself look [here](https://brill.com/view/title/56196), stay in contact with the author on Twitter [here](https://www.twitter.com/LWCvL) or surf to his [personal website](http://www.lwcvl.com)
 
 **Click on the badge to go to the stable, citable release: [![DOI](https://zenodo.org/badge/199522017.svg)](https://zenodo.org/badge/latestdoi/199522017)**
 
-_Want to be notified of the book's release? Sign up [here](https://digitalorientalist.github.io/Among-Digitized-Manuscripts/#contact)_
+_Want to be stay informed about exciting developments in digital manuscript studies? Sign up [here](http://forms.gle/KX4uHLdVq9ed8H4a7)
 
 ### The folders of this repository...
 In this GitHub repository you will find all kinds of files, links, references, and so forth related to the book. 
