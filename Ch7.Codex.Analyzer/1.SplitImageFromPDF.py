@@ -71,7 +71,7 @@ def Save_page_PDF(nameOfPDF, pageOfPDF):
 #Loop the function
 for i in range(startNumber,finishNumber+1):
     print("Working on Manuscript " + str(i))
-    SavePagePDF(nameOfCollection+str(i),1)
+    Save_page_PDF(nameOfCollection+str(i),1)
 
 # -------------------------------------------------------------------------------------
 # This goes at the top
